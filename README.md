@@ -3,7 +3,7 @@ Olá, Bem vindo(a) 👋
 Meu nome é Daivison Morais, estudante do curso Full stack no bootcamp Driven, com os objetivos de obter uma excelente fomação e estar preparado para os desafios diários que o mundo da programação proporciona, bem como, evoluir de forma profissional e pessoal para trilhar os melhores caminhos do eterno desenvolvimento.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Daivison-Morais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daivison-Morais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daivison-Morais&layout=compact&langs_count=7&theme=dracula"/>
 </div>
