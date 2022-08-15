@@ -10,13 +10,9 @@ Meu nome é Daivison Morais, estudante do curso Full stack no bootcamp Driven, c
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Daiv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
   <img align="center" alt="Daiv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
   <img align="center" alt="Daiv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
   <img align="center" alt="Daiv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
   <img align="center" alt="Daiv-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
 </div>
   
@@ -26,3 +22,10 @@ Meu nome é Daivison Morais, estudante do curso Full stack no bootcamp Driven, c
   <a href = "mailto:daivison13pinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daivison-de-tarcio-pinheiro-morais-197b9a203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+ <br>
+<div>
+    <div>Interesse:</div>
+    <img align="center" alt="Daiv-PHP" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <img align="center" alt="Daiv-PYTHON" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+       
