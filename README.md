@@ -18,49 +18,40 @@ Meu nome é Daivison Morais, estudante do curso Full stack no bootcamp Driven, c
   
   <img align="center" alt="Daiv-CSS" height="35" width="85" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
   <img align="center" alt="Daiv-node" height="35" width="95" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&                  logoColor=white">
-  <img align="center" alt="Daiv-CSS" height="35" width="95" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&            logoColor=white">
-     <img align="center" alt="postgresSQL" height="35" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&      logoColor=white">
-  <img align="center" alt="Mongo" height="35" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&                    logoColor=white">
+  <img align="center" alt="express" height="35" width="105" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img align="center" alt="Typescript" height="35" width="105" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&            logoColor=white">
+     <img align="center" alt="postgresSQL" height="35" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&      logoColor=white">
+  <img align="center" alt="Mongo" height="35" width="105" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&                    logoColor=white">
       <img align="center" alt="Jest" height="35" width="100" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <img align="center" alt="redis" height="35" width="100" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&                logoColor=white">
   <img align="center" alt="Heruko" height="35" width="100" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&                      logoColor=white">
   <img align="center" alt="Vercel" height="35" width="100" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&                      logoColor=white">
+  <img align="center" alt="linux" height="35" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
-
   
     
-   Ferramentas:
 <div> 
+  <h3>Ferramentas:</h3>
     <img align="center" alt="vsCode" height="35" width="130" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&                          logo=visual%20studio&logoColor=white">
     <img align="center" alt="Trello" height="35" width="100" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&                      logoColor=white">
     <img align="center" alt="Notion" height="35" width="100" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&                      logoColor=white">
-    
     <img align="center" alt="amazonAWS" height="35" width="100" src="">
   <img align="center" alt="amazonAWS" height="35" width="100" src="">
   <img align="center" alt="amazonAWS" height="35" width="100" src="">
-  <img align="center" alt="amazonAWS" height="35" width="100" src="">
-  <img align="center" alt="Vue" height="35" width="100" src="">
   
-    
-    
   
 </div>
   
-  
-  
-  
-  
-  
-  ##
-  
 <div> 
+  <h3>Redes sociais</h3>
   <a href = "mailto:daivison13pinheiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daivison-morais-197b9a203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- <br>
+  
 <div>
-    <div>Interesse:</div>
-    <img align="center" alt="Daiv-PHP" height="45" width="55" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <br/>
+    <h3>Interesses</h3>
+    <img align="center" alt="Daiv-Vue" height="45" width="80" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
     <img align="center" alt="Daiv-PYTHON" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
        
