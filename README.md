@@ -24,9 +24,9 @@ Meu nome é Daivison Morais, estudante do curso Full stack no bootcamp Driven, c
       <img align="center" alt="Jest" height="35" width="100" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <img align="center" alt="redis" height="35" width="100" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&                logoColor=white">
   <img align="center" alt="Heruko" height="35" width="100" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&                      logoColor=white">
-  <img align="center" alt="Vercel" height="35" width="100" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&                      logoColor=white">
-  <img align="center" alt="linux" height="35" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img align="center" alt="git" height="35" width="100" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Vercel" height="30" width="100" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&                      logoColor=white">
+  <img align="center" alt="linux" height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="git" height="30" width="100" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   </div>
     
 <div> 
