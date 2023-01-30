@@ -8,7 +8,7 @@ Meu nome é Daivison Morais, estudante do curso Full stack no bootcamp Driven, c
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daivison-Morais&layout=compact&langs_count=7&theme=radical">
 </div>
   <br/>
-   <h3>Habilidades</h3>
+   <h3>Tecnologias</h3>
 <div style="display: inline_block">
   <img align="center" alt="Daiv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daiv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
