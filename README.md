@@ -8,36 +8,49 @@ Meu nome é Daivison Morais, estudante do curso Full stack no bootcamp Driven, c
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daivison-Morais&layout=compact&langs_count=7&theme=radical">
 </div>
   <br/>
+  
    <h3>Tecnologias</h3>
 <div style="display: inline_block">
-  <img align="center" alt="Daiv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Daiv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Daiv-Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Daiv-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Daiv-CSS"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">  
+  <img align="center" alt="Daiv-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Daiv-ReactROUTER"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img align="center" alt="Daiv-styledComponents" height="30" width="150" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&       logo=styled-components&logoColor=white">
-  <img align="center" alt="Daiv-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Daiv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Daiv-CSS" height="35" width="85" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
-  <img align="center" alt="Daiv-node" height="35" width="95" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&                  logoColor=white">
-  <img align="center" alt="express" height="35" width="105" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img align="center" alt="Typescript" height="35" width="110" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&            logoColor=white">
-     <img align="center" alt="postgresSQL" height="35" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&      logoColor=white">
-  <img align="center" alt="Mongo" height="35" width="105" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&                    logoColor=white">
-      <img align="center" alt="Jest" height="35" width="100" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-  <img align="center" alt="redis" height="35" width="100" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&                logoColor=white">
-  <img align="center" alt="Heruko" height="35" width="100" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&                      logoColor=white">
-  <img align="center" alt="Vercel" height="30" width="100" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&                      logoColor=white">
+  
+  <img align="center" alt="Daiv-node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&                  logoColor=white">
+  <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&            logoColor=white">
+     <img align="center" alt="postgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&      logoColor=white">
+  <img align="center" alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&                    logoColor=white">
+  <img align="center" alt="" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">    
+  <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <img align="center" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&                logoColor=white">
+  
+  
+  
+  <img align="center" alt="GITHUBACTION"  src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img align="center" alt="Heruko" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&                      logoColor=white">
+  <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&                      logoColor=white">
   <img align="center" alt="linux" height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img align="center" alt="git" height="30" width="100" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  
   </div>
     
 <div> 
    <br/>
   <h3>Ferramentas</h3>
-    <img align="center" alt="vsCode" height="35" width="130" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&                          logo=visual%20studio&logoColor=white">
-    <img align="center" alt="Trello" height="35" width="100" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&                      logoColor=white">
-    <img align="center" alt="Notion" height="35" width="100" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&                      logoColor=white">
-    <img align="center" alt="slack" height="35" width="100" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img align="center" alt="Daiv-GIMP" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+    <img align="center" alt="vsCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    <img align="center" alt="REPLIT" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+    <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&                      logoColor=white">
+    <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&                      logoColor=white">
+    <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   
-  <img align="center" alt="zoom" height="35" width="100" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> 
+    <img align="center" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> 
 </div>
   
 <div> 
