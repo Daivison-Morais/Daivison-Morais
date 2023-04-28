@@ -49,7 +49,6 @@ Meu nome é Daivison Morais, estudante do curso Full stack no bootcamp Driven, c
     <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&                      logoColor=white">
     <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&                      logoColor=white">
     <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  
     <img align="center" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> 
 </div>
   
