@@ -1,6 +1,6 @@
 Olá, Bem vindo(a) 👋
 
-Meu nome é Daivison Morais, estudante do curso Full stack no bootcamp Driven, com os objetivos de obter uma excelente fomação e estar preparado para os desafios diários que o mundo da programação proporciona, bem como, evoluir de forma profissional e pessoal para trilhar os melhores caminhos do eterno desenvolvimento.
+Meu nome é Daivison Morais, Desenvolvedor Full Stack com um ano de experiência, formado pela Driven Education, possuo excelentes habilidades em hard e soft skills, Hoje tenho como objetivo a evolução constante por meio de muito aprendizado e superação de desafios, quero estar preparado para os desafios diários que o mundo da programação proporciona, bem como, trilhar o melhor caminho do eterno desenvolvimento!
 
 <div align="center">
   <a href="https://github.com/Daivison-Morais">
